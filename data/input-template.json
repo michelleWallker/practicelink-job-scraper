@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://www.practicelink.com/jobs",
+  "profession": "physician",
+  "specialty": "",
+  "location": "",
+  "recruitmentType": "",
+  "maxJobs": 100,
+  "outputFile": "./data/sample-results.json",
+  "proxy": {
+    "useProxy": false,
+    "proxyUrl": ""
+  },
+  "delayMs": 500
+}
