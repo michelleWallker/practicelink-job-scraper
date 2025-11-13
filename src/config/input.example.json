@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://www.practicelink.com/jobs",
+  "profession": "physician",
+  "specialty": "cardiology",
+  "location": "washington",
+  "recruitmentType": "employer",
+  "maxJobs": 50,
+  "outputFile": "./data/sample-results.json",
+  "proxy": {
+    "useProxy": false,
+    "proxyUrl": ""
+  },
+  "delayMs": 500
+}
