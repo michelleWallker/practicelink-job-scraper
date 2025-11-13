@@ -1,0 +1,22 @@
+[
+  {
+    "jobTitle": "Cardiology Physician",
+    "facilityName": "Washington Medical Center",
+    "facilityHierarchy": [
+      "Washington Health System",
+      "Regional Care Group"
+    ],
+    "profession": "physician",
+    "specialty": "cardiology",
+    "location": "washington, PA",
+    "recruitmentType": "employer",
+    "contactInfo": {
+      "name": "Dr. Karen Phillips",
+      "email": "kphillips@whs.org",
+      "phone": "555-392-1198"
+    },
+    "descriptionHtml": "<p>We are seeking a board-certified cardiologist to join our growing team at Washington Medical Center...</p>",
+    "jobUrl": "https://www.practicelink.com/job/example-cardiology-physician",
+    "scrapedAt": 1712349874000
+  }
+]
